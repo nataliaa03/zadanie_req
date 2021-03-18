@@ -1,0 +1,10 @@
+*.swn
+*.swo
+*.pyc
+*.swp
+*.yml.swm
+*.pytest_cache
+.idea
+.DS_Store
+geckodriver.log
+*.xml
